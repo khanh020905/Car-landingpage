@@ -1,0 +1,6 @@
+{
+  "name": "AVANTA Motors",
+  "description": "A premium luxury car showroom landing page with cinematic visual design and booking experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
